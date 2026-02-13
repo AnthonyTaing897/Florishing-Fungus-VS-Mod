@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/6",
+    "value": {
+      "code": "florishingfungus.florishfungus",
+      "hoursToDecay": 96
+    },
+    "file": "game:entities/animal/mammal/bear-adult.json",
+    "side": "Server"
+  }
+]

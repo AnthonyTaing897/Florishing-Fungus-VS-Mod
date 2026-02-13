@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "code",
+    "modid": "florishingfungus",
+    "name": "FlorishingFungus",
+    "authors": [
+        "LoafCifer"
+    ],
+    "description": "Giving mushrooms the power to spread, feeding of unharvested animals in nature.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}

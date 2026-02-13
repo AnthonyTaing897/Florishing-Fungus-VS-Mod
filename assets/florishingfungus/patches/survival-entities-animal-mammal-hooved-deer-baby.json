@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/5",
+    "value": {
+      "code": "florishingfungus.florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 1
+    },
+    "file": "game:entities/animal/mammal/hooved/deer-baby.json",
+    "side": "Server"
+  }
+]

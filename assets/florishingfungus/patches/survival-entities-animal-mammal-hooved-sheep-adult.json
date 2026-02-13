@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/4",
+    "value": {
+      "code": "florishingfungus.florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 2
+    },
+    "file": "game:entities/animal/mammal/hooved/sheep-adult.json",
+    "side": "Server"
+  }
+]
