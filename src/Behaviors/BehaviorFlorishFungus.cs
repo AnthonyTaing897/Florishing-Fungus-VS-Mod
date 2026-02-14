@@ -102,7 +102,7 @@ namespace FlorishingFungus.src.Behaviors
             {
                 for (int y = -10; y <= 10; y++)
                 {
-                    for (int z = -10; z <= 10; z++)
+                    for (int z = -2; z <= 2; z++)
                     {
                         BlockPos checkPos = pos.AsBlockPos.AddCopy(x, y, z);
                         var block = entity.World.BlockAccessor.GetBlock(checkPos);
