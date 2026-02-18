@@ -1,0 +1,13 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/server/behaviors/5",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 1
+    },
+    "file": "game:entities/animal/mammal/raccoon-baby.json",
+    "side": "Server"
+  }
+]

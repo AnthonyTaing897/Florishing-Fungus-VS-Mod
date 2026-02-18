@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "butcheringflorishingfungus",
+      "properties": {
+          "fungusToGrow": 3
+      }
+    },
+    "file": "butchering:itemtypes/butchercreatures/sheep.json",
+    "dependsOn": [ { "modid": "butchering" } ]
+  }
+]

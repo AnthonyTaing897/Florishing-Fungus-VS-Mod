@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "butcheringflorishingfungus",
+      "properties": {
+          "fungusToGrow": 1
+      }
+    },
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/aegothelidae.json",
+    "dependsOn": [ { "modid": "butchering" }, { "modid" : "dinornithidae"} ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "butcheringflorishingfungus",
+      "properties": {
+          "fungusToGrow": 2
+      }
+    },
+    "file": "butchering:itemtypes/butchercreatures/manidae/manidae.json",
+    "dependsOn": [ { "modid": "butchering" }, { "modid" : "manidae"} ]
+  }
+]

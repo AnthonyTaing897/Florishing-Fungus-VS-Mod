@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "butcheringflorishingfungus",
+      "properties": {
+          "fungusToGrow": 4
+      }
+    },
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/alceini.json",
+    "dependsOn": [ { "modid": "butchering" }, { "modid": "capreolinae"} ]
+  }
+]
