@@ -130,7 +130,7 @@ namespace FlorishingFungus.src.Behaviors.Compatability.butchering
 
         public void SpawnMushrooms(List<BlockPos> SurroundingPos, Block Mushroom, int MushroomAmount)
         {
-            if (SurroundingPos.Count == 0 || Mushroom == null || MushroomAmount == 0) return;
+            if (SurroundingPos.Count == 0 || Mushroom == null || MushroomAmount < 1) return;
 
             int randomIndex = api.World.Rand.Next(0, SurroundingPos.Count - 1);
 
