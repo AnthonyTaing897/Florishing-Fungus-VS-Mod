@@ -31,4 +31,5 @@
     },
     "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
     "dependsOn": [ { "modid": "bovinae" } ]
+  }
 ]
