@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "sirenia:entities/water/sirenia.json",
+    "dependsOn": [ { "modid" : "sirenia"} ]
+  }
+]

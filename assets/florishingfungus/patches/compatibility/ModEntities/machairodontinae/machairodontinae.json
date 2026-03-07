@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "machairodontinae:entities/animal/mammal/machairodontinae-adult.json",
+    "dependsOn": [ { "modid" : "machairodontinae"}  ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "machairodontinae:entities/animal/mammal/machairodontinae-baby.json",
+    "dependsOn": [ { "modid" : "machairodontinae"}  ]
+  }
+]

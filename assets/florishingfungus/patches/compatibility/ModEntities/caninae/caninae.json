@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 2
+    },
+    "file": "caninae:entities/land/canina-adult.json",
+    "dependsOn": [ { "modid" : "caninae"} ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 2
+    },
+    "file": "caninae:entities/land/canina-baby.json",
+    "dependsOn": [ { "modid" : "caninae"} ]
+  }
+]

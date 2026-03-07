@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "dependsOn": [ { "modid": "bovinae" } ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "dependsOn": [ { "modid": "bovinae" } ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "dependsOn": [ { "modid": "bovinae" } ]
+]

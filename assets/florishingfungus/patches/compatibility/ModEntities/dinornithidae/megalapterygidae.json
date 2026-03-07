@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 3
+    },
+    "file": "dinornithidae:entities/land/megalapterygidae.json",
+    "dependsOn": [ { "modid" : "dinornithidae"} ]
+  }
+]

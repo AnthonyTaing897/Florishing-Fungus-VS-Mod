@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "lichen:entities/land/whitehart.json",
+    "dependsOn": [ { "modid": "lichen" } ]
+  }
+]

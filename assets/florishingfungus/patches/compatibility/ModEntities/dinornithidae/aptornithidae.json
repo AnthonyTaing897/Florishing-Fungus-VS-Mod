@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 1
+    },
+    "file": "dinornithidae:entities/land/aptornithidae.json",
+    "dependsOn": [ { "modid" : "dinornithidae"} ]
+  }
+]

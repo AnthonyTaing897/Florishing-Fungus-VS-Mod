@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "dependsOn": [ { "modid" : "elephantidae"} ]
+  }
+]

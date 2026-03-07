@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "capreolinae:entities/animal/mammal/hooved/alceini-adult.json",
+    "dependsOn": [ { "modid": "capreolinae"} ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "florishfungus",
+      "hoursToDecay": 96,
+      "fungusToGrow": 4
+    },
+    "file": "capreolinae:entities/animal/mammal/hooved/alceini-baby.json",
+    "dependsOn": [ { "modid": "capreolinae"} ]
+  }
+]
